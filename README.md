@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A Information Systems student from PUC MINAS</h3>
-<img align="right" alt="Gif" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saaanzio&label=Profile%20views&color=0e75b6&style=flat" alt="saaanzio" /> </p>
 
 - 🔭 I’m currently working on **Java projects**
