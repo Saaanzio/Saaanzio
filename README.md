@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java projects**
 
-- 🌱 I’m currently learning **Spring Boot, MySQL**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 🤝 I’m looking for help with **getting my code cleaner**
 
