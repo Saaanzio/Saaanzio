@@ -17,6 +17,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
 
-!DiasEllen26 GitHub stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saaanzio&show_icons=true&locale=en&layout=compact" alt="saaanzio" /></p>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
