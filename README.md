@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">An Information Systems student from PUC MINAS</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saaanzio&label=Profile%20views&color=0e75b6&style=flat" alt="saaanzio" /> </p>
 
 - 🔭 I’m currently working on **Java projects**
 
