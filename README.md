@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Java projects**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot and MongoDB**
 
 - 🤝 I’m looking for help with **getting my code cleaner**
 
