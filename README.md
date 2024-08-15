@@ -12,6 +12,7 @@
 
 - 🤝 I’m looking for help with **getting my code cleaner**
 
+<br/>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
