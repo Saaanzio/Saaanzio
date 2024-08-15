@@ -24,4 +24,3 @@
 
 </a>
 </div>
-<img src="https://raw.githubusercontent.com/Saaanzio/Saaanzio/output/snake.svg" alt="Snake animation" />
