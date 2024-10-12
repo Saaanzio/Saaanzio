@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Java projects**
 
-- 🌱 I’m currently learning **Spring Boot and MongoDB**
+- 🌱 I’m currently learning **Spring Boot, MongoDB and React**
 
 - 🤝 I’m looking for help with **getting my code cleaner**
 
