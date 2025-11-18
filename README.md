@@ -6,7 +6,7 @@
 <h3 align="center">An Information Systems student from PUC MINAS</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 I’m currently working on **Java projects**
+- 🔭 I’m currently working on **Java and Python projects**
 
 - 🌱 I’m currently learning **Python and React**
 
