@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Java and Python projects**
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python and Docker**
 
 - 🤝 I’m looking for help with **getting my code cleaner**
 
