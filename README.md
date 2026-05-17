@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python and Docker**
 
-- 🤝 I’m looking for help with **getting my code cleaner**
+- 🤝 Looking to collaborate on new projects and ideas
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
